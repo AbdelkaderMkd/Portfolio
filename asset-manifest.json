@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.33a479b9.chunk.css",
+    "main.js": "/Portfolio/static/js/main.5d2958c3.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.5d2958c3.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.28fd396c.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.28fd396c.js.map",
+    "static/js/2.9c737e7f.chunk.js": "/Portfolio/static/js/2.9c737e7f.chunk.js",
+    "static/js/2.9c737e7f.chunk.js.map": "/Portfolio/static/js/2.9c737e7f.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.33a479b9.chunk.css.map": "/Portfolio/static/css/main.33a479b9.chunk.css.map",
+    "static/js/2.9c737e7f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9c737e7f.chunk.js.LICENSE.txt",
+    "static/media/Resume Mokeddem-Abdelkader.e410acd2.pdf": "/Portfolio/static/media/Resume Mokeddem-Abdelkader.e410acd2.pdf",
+    "static/media/android.0feb8167.svg": "/Portfolio/static/media/android.0feb8167.svg",
+    "static/media/angular.28ae4f3c.svg": "/Portfolio/static/media/angular.28ae4f3c.svg",
+    "static/media/c4.04d9d2bb.svg": "/Portfolio/static/media/c4.04d9d2bb.svg",
+    "static/media/css.4e47c312.svg": "/Portfolio/static/media/css.4e47c312.svg",
+    "static/media/firebase.e6583a29.svg": "/Portfolio/static/media/firebase.e6583a29.svg",
+    "static/media/flask.611b5611.svg": "/Portfolio/static/media/flask.611b5611.svg",
+    "static/media/game-maker.f5d7df16.svg": "/Portfolio/static/media/game-maker.f5d7df16.svg",
+    "static/media/html.f318c8b1.svg": "/Portfolio/static/media/html.f318c8b1.svg",
+    "static/media/img_Me.84276082.jpg": "/Portfolio/static/media/img_Me.84276082.jpg",
+    "static/media/img_bg.305a4383.jpg": "/Portfolio/static/media/img_bg.305a4383.jpg",
+    "static/media/java.2c5d38ea.svg": "/Portfolio/static/media/java.2c5d38ea.svg",
+    "static/media/javascript.00f3e5cf.svg": "/Portfolio/static/media/javascript.00f3e5cf.svg",
+    "static/media/python.e6d7dc73.svg": "/Portfolio/static/media/python.e6d7dc73.svg",
+    "static/media/react.e68b35f4.svg": "/Portfolio/static/media/react.e68b35f4.svg",
+    "static/media/tailwind.315d0ac2.svg": "/Portfolio/static/media/tailwind.315d0ac2.svg",
+    "static/media/tensorflow.84a4db00.svg": "/Portfolio/static/media/tensorflow.84a4db00.svg",
+    "static/media/typescript.a6305a73.svg": "/Portfolio/static/media/typescript.a6305a73.svg",
+    "static/media/unity.fe4a9b2b.svg": "/Portfolio/static/media/unity.fe4a9b2b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28fd396c.js",
+    "static/js/2.9c737e7f.chunk.js",
+    "static/css/main.33a479b9.chunk.css",
+    "static/js/main.5d2958c3.chunk.js"
+  ]
+}
