@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.daefac10.chunk.css",
-    "main.js": "/Portfolio/static/js/main.c7475c71.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.c7475c71.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.75b1b2b3.chunk.css",
+    "main.js": "/Portfolio/static/js/main.5fc8c227.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.5fc8c227.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.28fd396c.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.28fd396c.js.map",
     "static/js/2.9c737e7f.chunk.js": "/Portfolio/static/js/2.9c737e7f.chunk.js",
     "static/js/2.9c737e7f.chunk.js.map": "/Portfolio/static/js/2.9c737e7f.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.daefac10.chunk.css.map": "/Portfolio/static/css/main.daefac10.chunk.css.map",
+    "static/css/main.75b1b2b3.chunk.css.map": "/Portfolio/static/css/main.75b1b2b3.chunk.css.map",
     "static/js/2.9c737e7f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9c737e7f.chunk.js.LICENSE.txt",
     "static/media/Resume.1dd2d43e.pdf": "/Portfolio/static/media/Resume.1dd2d43e.pdf",
     "static/media/android.0feb8167.svg": "/Portfolio/static/media/android.0feb8167.svg",
@@ -19,8 +19,8 @@
     "static/media/flask.611b5611.svg": "/Portfolio/static/media/flask.611b5611.svg",
     "static/media/game-maker.f5d7df16.svg": "/Portfolio/static/media/game-maker.f5d7df16.svg",
     "static/media/html.f318c8b1.svg": "/Portfolio/static/media/html.f318c8b1.svg",
-    "static/media/img_Me.84276082.jpg": "/Portfolio/static/media/img_Me.84276082.jpg",
-    "static/media/img_bg.305a4383.jpg": "/Portfolio/static/media/img_bg.305a4383.jpg",
+    "static/media/img-bg.c9d635a4.webp": "/Portfolio/static/media/img-bg.c9d635a4.webp",
+    "static/media/img-me.739bced8.webp": "/Portfolio/static/media/img-me.739bced8.webp",
     "static/media/java.2c5d38ea.svg": "/Portfolio/static/media/java.2c5d38ea.svg",
     "static/media/javascript.00f3e5cf.svg": "/Portfolio/static/media/javascript.00f3e5cf.svg",
     "static/media/python.e6d7dc73.svg": "/Portfolio/static/media/python.e6d7dc73.svg",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.28fd396c.js",
     "static/js/2.9c737e7f.chunk.js",
-    "static/css/main.daefac10.chunk.css",
-    "static/js/main.c7475c71.chunk.js"
+    "static/css/main.75b1b2b3.chunk.css",
+    "static/js/main.5fc8c227.chunk.js"
   ]
 }
