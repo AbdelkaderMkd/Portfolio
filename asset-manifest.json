@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.06cff180.chunk.css",
-    "main.js": "/Portfolio/static/js/main.0237a378.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.0237a378.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.bb36ae80.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.bb36ae80.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.28fd396c.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.28fd396c.js.map",
     "static/js/2.9c737e7f.chunk.js": "/Portfolio/static/js/2.9c737e7f.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.06cff180.chunk.css.map": "/Portfolio/static/css/main.06cff180.chunk.css.map",
     "static/js/2.9c737e7f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9c737e7f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio/static/media/Comfortaa-Regular.886fcced.ttf",
-    "static/media/Resume.5777d6ee.pdf": "/Portfolio/static/media/Resume.5777d6ee.pdf",
+    "static/media/Resume.6ac5dcfe.pdf": "/Portfolio/static/media/Resume.6ac5dcfe.pdf",
     "static/media/angular.28ae4f3c.svg": "/Portfolio/static/media/angular.28ae4f3c.svg",
     "static/media/ant-design.739adb6a.svg": "/Portfolio/static/media/ant-design.739adb6a.svg",
     "static/media/css.4e47c312.svg": "/Portfolio/static/media/css.4e47c312.svg",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.28fd396c.js",
     "static/js/2.9c737e7f.chunk.js",
     "static/css/main.06cff180.chunk.css",
-    "static/js/main.0237a378.chunk.js"
+    "static/js/main.bb36ae80.chunk.js"
   ]
 }
