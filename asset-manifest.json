@@ -1,21 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a2635bc3.chunk.css",
-    "main.js": "/Portfolio/static/js/main.300141b3.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.300141b3.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.21d16de1.chunk.css",
+    "main.js": "/Portfolio/static/js/main.05dd114c.chunk.js",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.28fd396c.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.28fd396c.js.map",
     "static/js/2.9c737e7f.chunk.js": "/Portfolio/static/js/2.9c737e7f.chunk.js",
-    "static/js/2.9c737e7f.chunk.js.map": "/Portfolio/static/js/2.9c737e7f.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.a2635bc3.chunk.css.map": "/Portfolio/static/css/main.a2635bc3.chunk.css.map",
     "static/js/2.9c737e7f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9c737e7f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio/static/media/Comfortaa-Regular.886fcced.ttf",
     "static/media/Resume.a3a558eb.pdf": "/Portfolio/static/media/Resume.a3a558eb.pdf",
     "static/media/angular.28ae4f3c.svg": "/Portfolio/static/media/angular.28ae4f3c.svg",
-    "static/media/ant-design.739adb6a.svg": "/Portfolio/static/media/ant-design.739adb6a.svg",
+    "static/media/ant-design.839f7360.svg": "/Portfolio/static/media/ant-design.839f7360.svg",
     "static/media/css.4e47c312.svg": "/Portfolio/static/media/css.4e47c312.svg",
-    "static/media/express.734e301f.svg": "/Portfolio/static/media/express.734e301f.svg",
+    "static/media/express.a09b2931.svg": "/Portfolio/static/media/express.a09b2931.svg",
     "static/media/firebase.e6583a29.svg": "/Portfolio/static/media/firebase.e6583a29.svg",
     "static/media/flask.611b5611.svg": "/Portfolio/static/media/flask.611b5611.svg",
     "static/media/game-maker.f5d7df16.svg": "/Portfolio/static/media/game-maker.f5d7df16.svg",
@@ -38,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.28fd396c.js",
     "static/js/2.9c737e7f.chunk.js",
-    "static/css/main.a2635bc3.chunk.css",
-    "static/js/main.300141b3.chunk.js"
+    "static/css/main.21d16de1.chunk.css",
+    "static/js/main.05dd114c.chunk.js"
   ]
 }
